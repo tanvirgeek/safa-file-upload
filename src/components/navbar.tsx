@@ -16,7 +16,7 @@ const NavBar = () => {
           <div className="flex items-center space-x-4">
             <h1 className="text-xl font-semibold tracking-tight">
               <Link href="/" className="hover:text-indigo-200">
-                Safa's Files
+                Safa&apos;s Files
               </Link>
             </h1>
           </div>

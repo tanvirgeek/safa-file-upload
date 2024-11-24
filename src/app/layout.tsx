@@ -3,7 +3,7 @@ import NavBar from "@/components/navbar";
 import "./globals.css";
 
 export const metadata = {
-  title: "Safa's Files App",
+  title: "Safa&apos; Files App",
 };
 
 export default function RootLayout({
@@ -18,7 +18,7 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="Safa's File Upload and Management App"
+          content="Safa&apos; File Upload and Management App"
         />
         <title>{metadata.title}</title>
       </head>
@@ -33,8 +33,8 @@ export default function RootLayout({
           <footer className="bg-gray-800 text-white py-4">
             <div className="max-w-7xl mx-auto text-center text-sm">
               <p>
-                &copy; {new Date().getFullYear()} Safa's Files App. All rights
-                reserved.
+                &copy; {new Date().getFullYear()} Safa&apos;s Files App. All
+                rights reserved.
               </p>
             </div>
           </footer>
